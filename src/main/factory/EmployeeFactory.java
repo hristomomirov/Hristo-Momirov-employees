@@ -1,4 +1,4 @@
-package main.fafctory;
+package main.factory;
 
 import main.pojo.Employee;
 

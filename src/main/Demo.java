@@ -1,7 +1,7 @@
 package main;
 
-import main.fafctory.EmployeeFactory;
-import main.fafctory.EmployeePairFactory;
+import main.factory.EmployeeFactory;
+import main.factory.EmployeePairFactory;
 import main.pojo.Employee;
 import main.pojo.EmployeePair;
 
